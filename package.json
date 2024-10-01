@@ -7,7 +7,6 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "postinstall": "npm install react-slidedown --force",
     "preview": "vite preview"
   },
   "dependencies": {
